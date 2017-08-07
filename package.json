@@ -1,0 +1,14 @@
+{
+  "name": "test-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "seleucids.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "Austin and Stefanie",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^20.0.4"
+  }
+}
